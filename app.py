@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 def main():
     st.title("Sentiment Analysis on Tweets about US Airlines ✈️")
     st.sidebar.title("Sentiment Analysis on Tweets about US Airlines ✈️")
-    st.sidebar.subheader("By [Sagar Raina]")
+    st.sidebar.subheader("By Sagar Raina")
     st.subheader("A data-driven web app that visualizes various sentiment and exploratory analysis on tweets about US airlines.")
     st.sidebar.markdown("A data-driven web app that visualizes various sentiment and exploratory analysis on tweets about US airlines.")
 
